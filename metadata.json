@@ -1,0 +1,5 @@
+{
+  "name": "MDU Result Portal",
+  "description": "A result portal for checking academic results using registration and roll numbers.",
+  "requestFramePermissions": []
+}
